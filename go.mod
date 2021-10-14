@@ -1,4 +1,4 @@
-module github.com/xh-dev/xhTg
+module github.com/xh-dev-go/xhTg
 
 go 1.16
 

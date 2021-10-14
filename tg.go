@@ -3,8 +3,8 @@ package main
 import (
 	"errors"
 	"flag"
-	"github.com/xh-dev/xhTg/getMe"
-	"github.com/xh-dev/xhTg/notification"
+	"github.com/xh-dev-go/xhTg/getMe"
+	"github.com/xh-dev-go/xhTg/notification"
 	"os"
 )
 
