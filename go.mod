@@ -1,4 +1,4 @@
-module github.com/xh-dev/tg-bot-notification
+module github.com/xh-dev/xhTg
 
 go 1.16
 
