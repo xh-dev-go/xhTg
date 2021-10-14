@@ -3,9 +3,9 @@ package main
 import (
 	"errors"
 	"flag"
+	"github.com/xh-dev/tg-bot-notification/getMe"
+	"github.com/xh-dev/tg-bot-notification/notification"
 	"os"
-	"xhTg/getMe"
-	"xhTg/notification"
 )
 
 func main() {
